@@ -1,0 +1,5 @@
+/Users/alekseirumiantsev/Desktop/Examples/DZ22/obj/Debug/net6.0/DZ22.csproj.AssemblyReference.cache
+/Users/alekseirumiantsev/Desktop/Examples/DZ22/obj/Debug/net6.0/DZ22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseirumiantsev/Desktop/Examples/DZ22/obj/Debug/net6.0/DZ22.AssemblyInfoInputs.cache
+/Users/alekseirumiantsev/Desktop/Examples/DZ22/obj/Debug/net6.0/DZ22.AssemblyInfo.cs
+/Users/alekseirumiantsev/Desktop/Examples/DZ22/obj/Debug/net6.0/DZ22.csproj.CoreCompileInputs.cache

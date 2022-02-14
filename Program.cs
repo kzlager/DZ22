@@ -13,7 +13,7 @@ double Distance3D(double x1, double y1, double z1, double x2, double y2, double 
     return result;
 }
 
-Console.Write("Введите пространство для поиска расстояния между точками (2d или 3d): ");
+Console.Write("Введите пространство для поиска расстояния между точками (2D или 3D): ");
 string choice = Console.ReadLine();
 
 if (choice == "2D")
