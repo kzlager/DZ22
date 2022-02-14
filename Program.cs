@@ -15,3 +15,16 @@ double Distance3D(double x1, double y1. double z1, double x2, double y2, double 
 
 Console.Write("Введите пространство для поиска расстояния между точками (2d или 3d): ");
 string choice = Console.ReadLine();
+
+if (choice == "2D")
+{
+    Console.Write("Введите координату x1: ");
+    double x1 = double.Parse(Console.ReadLine());
+    Console.Write("Введите координату y1: ");
+    double y1 = double.Parse(Console.ReadLine());
+    Console.Write("Введите координату x2: ");
+    double x2 = double.Parse(Console.ReadLine());
+    Console.Write("Введите координату y2: ");
+    double y2 = double.Parse(Console.ReadLine());
+    Console.WriteLine("Расстояние между точками")
+}
